@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Seminar9</string>
+        <string-array name="localitati_array">
+            <item>Bucuresti</item>
+            <item>Focsani</item>
+            <item>Bacau</item>
+        </string-array>
+</resources>
